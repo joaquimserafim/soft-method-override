@@ -5,7 +5,7 @@ handy way to override an internal method from an Object in runtime when you need
 ----
 <a href="https://nodei.co/npm/soft-method-override/"><img src="https://nodei.co/npm/soft-method-override.png?downloads=true"></a>
 
-[![Build Status](https://travis-ci.org/joaquimserafim/soft-method-override.svg?branch=master)](https://travis-ci.org/joaquimserafim/soft-method-override)[![Coverage Status](https://coveralls.io/repos/github/joaquimserafim/soft-method-override/badge.svg)](https://coveralls.io/github/joaquimserafim/soft-method-override)[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://github.com/joaquimserafim/soft-method-override/blob/master/LICENSE)[![NodeJS](https://img.shields.io/badge/node-6.x.x-brightgreen.svg?style=flat-square)](https://github.com/joaquimserafim/soft-method-override/blob/master/package.json#L39)
+[![Build Status](https://travis-ci.org/joaquimserafim/soft-method-override.svg?branch=master)](https://travis-ci.org/joaquimserafim/soft-method-override)[![Coverage Status](https://coveralls.io/repos/github/joaquimserafim/soft-method-override/badge.svg)](https://coveralls.io/github/joaquimserafim/soft-method-override)[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://github.com/joaquimserafim/soft-method-override/blob/master/LICENSE)[![NodeJS](https://img.shields.io/badge/node-6.x.x-brightgreen.svg?style=flat-square)](https://github.com/joaquimserafim/soft-method-override/blob/master/package.json#L42)
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 

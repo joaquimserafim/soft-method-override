@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/joaquimserafim/soft-method-override#readme",
   "devDependencies": {
+    "coveralls": "^2.13.1",
     "nyc": "^10.3.2",
     "pre-commit": "^1.2.2",
     "standard": "^10.0.2",
